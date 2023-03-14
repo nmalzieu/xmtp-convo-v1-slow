@@ -1,0 +1,9 @@
+{
+  "name": "xmtp-convv1-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@xmtp/xmtp-js": "^7.13.1"
+  }
+}
